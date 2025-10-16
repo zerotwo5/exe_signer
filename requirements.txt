@@ -1,0 +1,5 @@
+colorama>=0.4.6
+tqdm>=4.65.0
+requests>=2.31.0
+python-magic>=0.4.27
+pycryptodome>=3.18.0
