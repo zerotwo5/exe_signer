@@ -126,7 +126,7 @@ After successful signing, you'll get:
 
 3. **Permission Denied**
    ```bash
-   chmod +x exe_signer_final.py
+   chmod +x exe_signer.py
    ```
 
 ## Contributing
@@ -150,5 +150,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ⚠️ **Remember**: This tool should only be used for legitimate Red Team operations with proper authorization.
+
 
 For questions and support: [Open an issue](https://github.com/zerotwo5/linux-payload-signer/issues) or contact me on GitHub [@zerotwo5](https://github.com/zerotwo5)
