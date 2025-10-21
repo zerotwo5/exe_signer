@@ -51,12 +51,12 @@ python3 exe_signer.py
 
 The tool provides an interactive menu with the following options:
 
-1. Standard Signing (Single Certificate)
-2. Advanced Signing (Multiple Certificates)
-3. Manual Instructions Only
+   1. Standard Signing (Signed as Microsoft Corporation)
+   2. Advanced Signing (Signed as specific company)
+   3. Manual Signing   (Custom configuration)
 
 ### Standard Signing
-- Generates a single code signing certificate
+- Generates a single code signing certificate as Microsoft 
 - Signs your payload with the generated certificate
 - Creates a batch script for future use
 - Verifies the signature
@@ -153,3 +153,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 For questions and support: [Open an issue](https://github.com/zerotwo5/linux-payload-signer/issues) or contact me on GitHub [@zerotwo5](https://github.com/zerotwo5)
+
